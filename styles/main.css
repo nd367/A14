@@ -7,9 +7,11 @@ body {
 	width: 800px;
 	length:800px;
 	margin: 0px auto;
-	border: 3px solid #931420;
+	padding-top: 10%;
 }
-
+header {
+	padding-top: 20%;
+}
 header h1 {
 	font-size: 170%;
 	color: #931420;
